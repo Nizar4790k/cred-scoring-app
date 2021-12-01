@@ -1,0 +1,6 @@
+[submodule "credit-scoring-app-frontend"]
+	path = credit-scoring-app-frontend
+	url = https://github.com/anthonyde98/credit-scoring-app-frontend.git
+[submodule "cred-scoring-app-backend"]
+	path = cred-scoring-app-backend
+	url = https://github.com/Nizar4790k/cred-scoring-app-backend.git
